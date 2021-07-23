@@ -1,0 +1,38 @@
+/* body styling*/
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Zilla Slab', serif;
+}
+
+/*home styling*/
+.home {
+    background-image: url(./Assets/background1.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+}
+.header {
+   text-align: center;
+   position: relative; 
+   top: 13rem;
+   color: #fff;
+   
+}.mouse {
+    position: relative;
+    top: 0.5rem;
+}
+
+/*.mouse {
+    /*width: 100px;
+    height: 100px;
+    position: relative;
+    animation-name: mouse;
+    animation-duration: 3s infinite;  
+    animation-fill-mode: forwards;
+}
+@keyframes mouse {
+    from {top: 0px;}
+    to {top: 10px;}
+  }*/
