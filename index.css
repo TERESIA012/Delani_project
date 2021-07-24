@@ -105,6 +105,8 @@ font-weight: bold;
 #what h5 {
     text-align: center;
 
+    
+
 
 }
 #what h1 {
@@ -170,3 +172,21 @@ section h1 {
     top: 3rem;
     position: relative;
 }
+/*footer styling */
+.social-icons {
+    text-align: center;
+    
+    
+}
+.year {
+    text-align: center;
+
+}
+.year h5 {
+    font-weight: bold;
+}
+
+
+
+
+
