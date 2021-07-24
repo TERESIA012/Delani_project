@@ -1,13 +1,20 @@
 //what we do section
 
 $(document).ready(function(){
-    $(".pmi").on("click",function(){
-        $(".product-managements").toggle();
+    $(".product-management").on("click",function(){
+        $(".pmi").toggle();
+        $(".product-managements").toggle(); 
     });
-    $(".desi").on("click",function(){
+    
+    $(".design").on("click",function(){
+        $(".desi").toggle();
         $(".design1").toggle();
+        
+        
     });
-    $(".devi").on("click",function(){
+
+    $(".development").on("click",function(){
+        $(".devi").toggle();
         $(".dev").toggle();
     });
 
