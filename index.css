@@ -126,6 +126,100 @@ font-weight: bold;
     font-weight: bold;
 }
 
+.portfolio {
+    position: relative;
+}
+.dark {
+    position: absolute;
+    top: 5rem;
+    color: #fff;
+    margin-left: 4rem;
+    border: 2px solid white;
+    font-size: 20px;
+    font-weight: bold;
+    display: none;
+}
+.ontario {
+    position: absolute;
+    top: 5rem;
+    color: #000;
+    font-size: 20px;
+    margin-left: 3rem;
+    border: 2px solid white;
+    font-weight: bold;
+    display: none;
+}
+.orange {
+    position: absolute;
+    top: 5rem;
+    color: #000;
+    font-size: 20px;
+    margin-left: 1rem;
+    border: 2px solid white;
+    font-weight: bold;
+    display: none;
+}
+.jim {
+    position: absolute;
+    top: 5rem;
+    color: #fff;
+    font-size: 20px;
+    margin-left: 4rem;
+    border: 2px solid white;
+    font-weight: bold;
+    display: none; 
+}
+#row {
+    margin-top: 3rem;
+}
+
+.good {
+    position: absolute;
+    top: 5rem;
+    color: #fff;
+    font-size: 20px;
+    margin-left: 4rem;
+    border: 2px solid white;
+    font-weight: bold;
+    display: none; 
+}
+.calc {
+    position: absolute;
+    top: 5rem;
+    color: #000;
+    font-size: 20px;
+    margin-left: 4rem;
+    border: 2px solid white;
+    font-weight: bold;
+    display: none; 
+
+}
+
+.burn {
+    position: absolute;
+    top: 5rem;
+    color: #000;
+    font-size: 20px;
+    margin-left: 6rem;
+    border: 2px solid white;
+    font-weight: bold;
+    display: none;  
+}
+.giraffe {
+    position: absolute;
+    top: 5rem;
+    color: #000;
+    font-size: 20px;
+    margin-left: 1rem;
+    border: 2px solid white;
+    font-weight: bold;
+    display: none; 
+}
+
+
+
+
+
 /* form styling*/
 
 section{
@@ -137,6 +231,7 @@ section{
     height: 100%;
     text-align: center;
     color: #fff;
+    margin-top: 3rem;
     
 
 }
