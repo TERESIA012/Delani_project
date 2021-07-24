@@ -21,7 +21,7 @@ $(document).ready(function(){
 
 });
 
-
+//portfolio section
 $(document).ready(function() {
     $(".dark1").mouseenter(function() {
                $(".dark").show();
