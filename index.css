@@ -59,6 +59,9 @@
     top: 3rem;
     
 }
+.about-us h1 {
+    font-weight: bold;
+}
 
 /*services styling*/
 .services {
@@ -79,7 +82,7 @@
     top: 6rem;
 }
 .services h2 {
-font-weight: 600;
+font-weight: bold;
 }
 .serv {
     font-style: normal;
