@@ -94,7 +94,7 @@ $(document).ready(function() {
 $(document).ready(function() {
     $(".burn1").mouseenter(function() {
                $(".burn").show();
-               $(".burn1").css("opacity","0.8")
+               $(".burn1").css("opacity","0.9")
     });
     $(".burn1").mouseleave(function() {
                $(".burn").hide();
