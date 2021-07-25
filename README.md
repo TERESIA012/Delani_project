@@ -30,4 +30,25 @@ ___
 [LIVE LINK](https://teresia012.github.io/Delani_project/)
 
 ___
+## Screenshots
+ <img src="./Assets/home.png" alt="" width="100%">
+ <img src="./Assets/body1.png" alt="" width="100%">
+ <img src="./Assets/body2.png" alt="" width="100%">
+ <img src="./Assets/body3.png" alt="" width="100%">
+ 
 
+ ## BDD
+ * Enter your email
+ * Enter your name
+ * Type a text
+ * Pop up message will appear
+ ____
+
+ ## BUGS
+ No known bugs at the moment
+ ___
+
+ ## LICENCE
+ [MIT](https://www.markdownguide.org/cheat-sheet/)
+ 
+# &COPY;2021
