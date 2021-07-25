@@ -248,6 +248,22 @@ margin-left: 3rem;
     color: #fff;
     
 }
+#name {
+    color: #fff;
+    font-size: 1rem;
+    font-weight: bold;
+}
+#email {
+    color: #fff;
+    font-size: 1rem;
+    font-weight: bold;
+}
+#subject {
+    color: #fff;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
 form {
     position: relative;
     top: 12rem;
