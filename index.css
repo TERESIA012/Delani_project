@@ -347,3 +347,94 @@ section h1 {
 .year h5 {
     font-weight: bold;
 }
+
+/* Responsiveness*/
+@media  screen and (max-width:500px) {
+    .home{
+        height: 125vh;
+    }
+    #services {
+        height: 90vh;
+    }
+    .what-we-do{
+        flex-direction: column;
+    }
+    .design, .development ,.product-management{
+        margin-bottom: 5rem;
+    }
+    section {
+        height: 95vh;
+    }
+    form {
+      top: 5rem;  
+    }
+    
+    
+}
+@media  screen and (max-width:700px) {
+    .home{
+        height: 125vh;
+    }
+    #services {
+        height: 90vh;
+    }
+    .what-we-do{
+        flex-direction: column;
+    }
+    .design, .development ,.product-management{
+        margin-bottom: 5rem;
+    }
+    section {
+        height: 120vh;
+    }
+    form {
+      top: 5rem;  
+    }
+    
+    
+}
+@media  screen and (max-width:900px) {
+    .home{
+        height: 125vh;
+    }
+    #services {
+        height: 90vh;
+    }
+    .what-we-do{
+        flex-direction: column;
+    }
+    .design, .development ,.product-management{
+        margin-bottom: 5rem;
+    }
+    section {
+        height: 180vh;
+    }
+    form {
+      top: 5rem;  
+    }
+    
+    
+}
+@media  screen and (max-width:1100px) {
+    .home{
+        height: 125vh;
+    }
+    #services {
+        height: 90vh;
+    }
+    .what-we-do{
+        flex-direction: column;
+    }
+    .design, .development ,.product-management{
+        margin-bottom: 5rem;
+    }
+    section {
+        height: 200vh;
+    }
+    form {
+      top: 5rem;  
+    }
+    
+    
+}
+
