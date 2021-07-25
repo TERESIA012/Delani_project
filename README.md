@@ -16,3 +16,18 @@ ____
 * git clone the github repository url
 * code .
 ___
+##
+Technologies used ;
+
+1.HTML
+
+2.CSS
+
+3.JAVASCRIPT
+
+4.JQUERY
+___
+[LIVE LINK](https://teresia012.github.io/Delani_project/)
+
+___
+
