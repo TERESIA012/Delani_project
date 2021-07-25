@@ -123,3 +123,23 @@ $(document).ready(function() {
                $(".giraffe1").css("opacity","2")
     });
 }); 
+
+//form validation
+
+
+$(document).ready(function(){
+    $("form#form").submit(function(event){
+      // event.preventDefault();
+      var name = $("input#name").val();
+      var email = $("input#email").val();
+      var message = $("textarea#subject").val();
+      if (name && email){
+        alert (name + ", we have received your message. Thank you for reaching out to us.");
+      }
+      else {
+        alert("Please enter your name and email!");
+      }
+      
+    });
+  
+  });
