@@ -38,18 +38,6 @@
     top: 26rem;
 }
 
-/*.mouse {
-    /*width: 100px;
-    height: 100px;
-    position: relative;
-    animation-name: mouse;
-    animation-duration: 3s infinite;  
-    animation-fill-mode: forwards;
-}
-@keyframes mouse {
-    from {top: 0px;}
-    to {top: 10px;}
-  }*/
 
 /*style about us*/
 .about-us {
@@ -241,6 +229,7 @@ section{
 width: 70%;
 background-color: transparent;
 border: 1px solid white;
+margin-left: 3rem;
 
 }
 #name {
