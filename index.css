@@ -45,8 +45,9 @@
     line-height: 200%;
     position: relative;
     top: 3rem;
-    
+
 }
+
 .about-us h1 {
     font-weight: bold;
 }
@@ -59,22 +60,25 @@
     color: #fff;
 
 }
+
 #services {
     background-image: url(./Assets/background2.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    height:70vh;
+    height: 70vh;
     width: 100%;
     position: relative;
     top: 6rem;
 }
+
 .services h2 {
-font-weight: bold;
+    font-weight: bold;
 }
+
 .serv {
     font-style: normal;
-    
+
     position: relative;
     line-height: 200%;
 }
@@ -82,11 +86,12 @@ font-weight: bold;
 /*what we do styling*/
 #what {
     margin-top: 8rem;
-    
-    
-    
+
+
+
 }
-.what-we-do{
+
+.what-we-do {
     display: flex;
     justify-content: space-between;
 
@@ -95,13 +100,15 @@ font-weight: bold;
 #what h5 {
     text-align: center;
 
-    
+
 
 
 }
+
 #what h1 {
     text-align: center;
 }
+
 #what img {
     margin-left: 40%;
 }
@@ -119,6 +126,7 @@ font-weight: bold;
 .portfolio {
     position: relative;
 }
+
 .dark {
     position: absolute;
     top: 5rem;
@@ -133,6 +141,7 @@ font-weight: bold;
     font-weight: bold;
     display: none;
 }
+
 .ontario {
     position: absolute;
     top: 5rem;
@@ -147,6 +156,7 @@ font-weight: bold;
     font-weight: bold;
     display: none;
 }
+
 .orange {
     position: absolute;
     top: 5rem;
@@ -161,6 +171,7 @@ font-weight: bold;
     font-weight: bold;
     display: none;
 }
+
 .jim {
     position: absolute;
     top: 5rem;
@@ -173,8 +184,9 @@ font-weight: bold;
     margin: 3%;
     top: 1rem;
     font-weight: bold;
-    display: none; 
+    display: none;
 }
+
 #row {
     margin-top: 3rem;
 }
@@ -191,8 +203,9 @@ font-weight: bold;
     margin: 3%;
     top: 1rem;
     font-weight: bold;
-    display: none; 
+    display: none;
 }
+
 .calc {
     position: absolute;
     top: 5rem;
@@ -205,7 +218,7 @@ font-weight: bold;
     margin: 3%;
     top: 1rem;
     font-weight: bold;
-    display: none; 
+    display: none;
 
 }
 
@@ -221,8 +234,9 @@ font-weight: bold;
     margin: 3%;
     top: 1rem;
     font-weight: bold;
-    display: none;  
+    display: none;
 }
+
 .giraffe {
     position: absolute;
     top: 5rem;
@@ -235,7 +249,7 @@ font-weight: bold;
     margin: 3%;
     top: 1rem;
     font-weight: bold;
-    display: none; 
+    display: none;
 }
 
 
@@ -244,7 +258,7 @@ font-weight: bold;
 
 /* form styling*/
 
-section{
+section {
     background-image: url(./Assets/background3.jpg);
     background-repeat: no-repeat;
     background-position: center;
@@ -254,42 +268,49 @@ section{
     text-align: center;
     color: #fff;
     margin-top: 3rem;
-    
+
 
 }
+
 #subject {
-width: 70%;
-background-color: transparent;
-border: 1px solid white;
-margin-left: 3rem;
+    width: 70%;
+    background-color: transparent;
+    border: 1px solid white;
+    margin-left: 3rem;
 
 }
+
 #name {
     background-color: transparent;
     border: 1px solid white;
-    width:35% ;
+    width: 35%;
     margin-right: 4rem;
-    
+
 }
+
 #email {
     background-color: transparent;
     border: 1px solid white;
     width: 30%;
 }
-::placeholder{
+
+::placeholder {
     color: #fff;
-    
+
 }
+
 #name {
     color: #fff;
     font-size: 1rem;
     font-weight: bold;
 }
+
 #email {
     color: #fff;
     font-size: 1rem;
     font-weight: bold;
 }
+
 #subject {
     color: #fff;
     font-size: 1rem;
@@ -300,28 +321,29 @@ form {
     position: relative;
     top: 12rem;
 }
+
 section h1 {
     font-weight: bold;
     top: 3rem;
     position: relative;
 }
+
 /*footer styling */
 .social-icons {
     text-align: center;
     margin-top: 2rem;
-    
-    
-    
+
+
+
+}
+.social-icons img {
+    margin-right: 10px;
 }
 .year {
     text-align: center;
 
 }
+
 .year h5 {
     font-weight: bold;
 }
-
-
-
-
-
